@@ -2,7 +2,7 @@
 
 # Portfolio-Bootstrap
 
-> This project is meant to experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch. It creates a prototype of the portfolio website from scratch in a few hours 😁
+> This project is meant to experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch. It creates a prototype of the portfolio website in a few hours
 
 ## Built With
 
