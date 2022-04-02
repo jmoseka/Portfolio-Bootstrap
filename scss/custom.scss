@@ -1,0 +1,38 @@
+$body-bg: #191765;
+$body-color: white;
+$secondary: #9390ff;
+$primary: #191765;
+
+$font-family-sans-serif: "Roboto", sans-serif;
+
+// Include all of Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.list-info {
+  justify-content: space-between;
+}
+.custombg {
+  background: url("../images/circle.png");
+  background-size: cover;
+}
+.card {
+  border: none;
+  background: #191765;
+}
+.card-body {
+  background: #191765;
+}
+
+.border {
+  border-bottom: none;
+  border-top: none;
+}
+
+.form-control {
+  background: white;
+}
+.textarea {
+  height: 100px;
+  max-height: 100px;
+  min-height: 100px;
+}
